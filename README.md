@@ -1,4 +1,4 @@
-### Neo4j Basic
+### Neo4j/Cypher Basic
 <br>
 
 - 모든 노드 삭제
